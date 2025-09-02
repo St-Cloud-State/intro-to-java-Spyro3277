@@ -1,0 +1,97 @@
+Script started on Tue Sep  2 17:40:24 2025
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                              [0m[27m[24m[Jbryanerickson@MacBook-Air-370 Hw1Q3 % [K[?2004hccat input.txt[?2004l
+John Smith 101
+Beth McGirl 102
+Ricky LeFleur 103
+Trevor Lahey 104
+Randy Bobandy 105[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                              [0m[27m[24m[Jbryanerickson@MacBook-Air-370 Hw1Q3 % [K[?2004hccd "/Users/bryanerickson/Desktop/Coding/CSCI_430/Hw1Q3/" && javac MyMain.java && java MyMain[?2004l
+Here are your options:
+1: Store data from a premade file
+2: Search for an ID
+3: Display all data
+4: End the program
+Enter a selection:
+1
+Input file was stored
+Here are your options:
+1: Store data from a premade file
+2: Search for an ID
+3: Display all data
+4: End the program
+Enter a selection:
+3
+John Smith 101
+Beth McGirl 102
+Ricky LeFleur 103
+Trevor Lahey 104
+Randy Bobandy 105
+Here are your options:
+1: Store data from a premade file
+2: Search for an ID
+3: Display all data
+4: End the program
+Enter a selection:
+2
+Enter an ID to search:
+101
+ID was found at index: 0
+Here are your options:
+1: Store data from a premade file
+2: Search for an ID
+3: Display all data
+4: End the program
+Enter a selection:
+2
+Enter an ID to search:
+102
+ID was found at index: 1
+Here are your options:
+1: Store data from a premade file
+2: Search for an ID
+3: Display all data
+4: End the program
+Enter a selection:
+2
+Enter an ID to search:
+103
+ID was found at index: 2
+Here are your options:
+1: Store data from a premade file
+2: Search for an ID
+3: Display all data
+4: End the program
+Enter a selection:
+2
+Enter an ID to search:
+104
+ID was found at index: 3
+Here are your options:
+1: Store data from a premade file
+2: Search for an ID
+3: Display all data
+4: End the program
+Enter a selection:
+2
+Enter an ID to search:
+105
+ID was found at index: 4
+Here are your options:
+1: Store data from a premade file
+2: Search for an ID
+3: Display all data
+4: End the program
+Enter a selection:
+2
+Enter an ID to search:
+780
+ID was not found
+Here are your options:
+1: Store data from a premade file
+2: Search for an ID
+3: Display all data
+4: End the program
+Enter a selection:
+4
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                              [0m[27m[24m[Jbryanerickson@MacBook-Air-370 Hw1Q3 % [K[?2004heexit[?2004l
+
+Script done on Tue Sep  2 17:41:12 2025
